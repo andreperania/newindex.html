@@ -1,0 +1,16 @@
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(nonoy.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+}
+.content{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: aliceblue;
+
+
+}
+.profile{
+    <hr align ="center";>
+}
